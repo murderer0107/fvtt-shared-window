@@ -1,0 +1,19 @@
+{
+  "name": "shared-window",
+  "title": "Shared Window",
+  "description": "A shared window for players and GM with transparency and drag support.",
+  "version": "1.0.0",
+  "author": "ChatGPT",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "13",
+  "scripts": ["scripts/shared-window.js"],
+  "styles": ["styles/style.css"],
+  "esmodules": [],
+  "languages": [],
+  "packs": [],
+  "system": "",
+  "url": "https://example.com",
+  "manifest": "https://example.com/module.json",
+  "download": "https://example.com/shared-window.zip",
+  "license": "MIT"
+}
