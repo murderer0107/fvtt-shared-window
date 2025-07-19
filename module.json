@@ -1,16 +1,17 @@
 {
-  "id": "fvtt-shared-window",  
-  "name": "fvtt-shared-window", 
+  "id": "fvtt-shared-window",
+  "name": "fvtt-shared-window",
+  "title": "Shared Window", 
   "description": "A shared window for both GM and players",
   "version": "1.0.0",
-  "compatibility": {          
+  "compatibility": {
     "minimum": "10",
     "verified": "11"
   },
-  "authors": [                
+  "authors": [
     {
       "name": "murderer0107",
-      "url": "https://github.com/murderer0107/fvtt-shared-window" 
+      "url": "https://github.com/murderer0107/fvtt-shared-window"
     }
   ],
   "esmodules": ["scripts/main.js"],
